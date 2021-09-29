@@ -1,0 +1,16 @@
+Windcave Public License
+https://www.windcave.com/public-license
+
+Copyright (c) 2020 Windcave Limited
+
+1. Please read this license ("License") carefully, as it governs your use of this software and associated documentation (the "Software"). By using this Software, you agree to the terms of this License.
+
+2. Subject to the terms of this License, Windcave Limited ("us" or "we") hereby grants you the royalty-free, worldwide, non-exclusive right to communicate, reproduce, publish, use, merge, modify, sublicense, distribute, and/or sell copies of the Software, and to do the same with derivative works of the Software that you prepare.
+
+3. If you distribute all or any portion of the Software, you must retain this License and any accompanying trademark, copyright, patent and/or attribution notice(s) present in the Software. Neither our name, nor the names of any contributors may be used to endorse or promote products derived from this Software without specific prior written permission.
+
+4. The Software is licensed "as-is," and you bear all risks associated with your use of it. We provide no express or implied warranty of any kind in relation to the Software, and this disclaimer includes, but is not limited to, implied warranties of merchantability and fitness for a particular purpose.
+
+5. In no event will we or any of our related entities be liable for any claim, damages, or other liability, whether in contract, tort (including negligence) or otherwise in relation to the Software or this License. You hereby agree to indemnify us against any liability, loss damage or cost suffered or incurred by us to the extent caused by your acts or omissions in relation to the Software or this License.
+
+6. This License is governed by the laws of New Zealand, including the intellectual property laws of New Zealand.
